@@ -1,0 +1,7 @@
+<httpProtocol>
+ <customHeaders>
+  <add name="Access-Control-Allow-Credentials" value="true" />
+  <add name="Access-Control-Allow-Headers" value="content-type" />
+  <add name="Access-Control-Allow-Origin" value="http://pam-svr1:8090" />  
+ </customHeaders>
+</httpProtocol>

@@ -1,0 +1,1 @@
+Install-WindowsFeature Web-WebServer,Net-Framework-Features,rsat-ad-powershell,Web-Mgmt-Tools, Windows-Identity-Foundation,Server-Media-Foundation,Xps-Viewer -IncludeAllSubFeature -Source F:\Tools\sources\sxs -Restart

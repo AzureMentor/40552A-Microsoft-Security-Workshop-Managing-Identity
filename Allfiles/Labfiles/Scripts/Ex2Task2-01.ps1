@@ -1,0 +1,1 @@
+Remove-ADGroupMember -Identity 'CorpAdmins' -Members 'CorpAdmin01' -Confirm:$false

@@ -1,0 +1,1 @@
+Add-DnsServerConditionalForwarderZone –Name "adatum.com" –MasterServers 172.16.0.100

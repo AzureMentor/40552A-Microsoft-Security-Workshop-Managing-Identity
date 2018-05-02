@@ -1,0 +1,1 @@
+Invoke-Command -ComputerName lon-cl1 -ScriptBlock {Add-LocalGroupMember -Group Administrators -Member 'ADATUM\CorpAdmin01'}

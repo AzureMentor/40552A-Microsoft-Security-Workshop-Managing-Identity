@@ -1,0 +1,1 @@
+Add-DnsServerZoneDelegation -Name "adatum.com" -ChildZoneName "priv" -NameServer "PAM-DC1.priv.adatum.com" -IPAddress "172.16.0.200"
